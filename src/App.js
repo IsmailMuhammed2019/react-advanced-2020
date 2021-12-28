@@ -1,7 +1,7 @@
 import React from 'react'
 
 //importing errorExample component from tutorials folder
-import Setup from './tutorial/1-useState/setup/1-error-example'
+import Setup from './tutorial/1-useState/setup/4-useState-object'
 
 function App() {
   return (
